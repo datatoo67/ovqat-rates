@@ -1,0 +1,9 @@
+{
+  "source": "CBA",
+  "sourceUrl": "https://cbar.az/currencies/21.11.2026.xml",
+  "requestedDate": "21.11.2026",
+  "effectiveDate": "2026-11-20",
+  "fetchedAt": "2026-11-21T13:47:59.155Z",
+  "sha256": "a0316bb191f0806a015b371f0549d894ab87cc6188dfc61b281fc2145173a42a",
+  "currencies": 42
+}
